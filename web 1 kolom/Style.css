@@ -1,0 +1,28 @@
+/*
+Selector {
+    properties: value;
+}
+*/
+
+h1 { 
+    color:red;
+    font-family: serif;
+}
+
+h2 {
+    color:hotpink
+}
+
+h3 {
+    color:lawngreen;
+}
+h4 {
+    color:limegreen;
+}
+h5 {
+    color:mediumblue;
+}
+h6 {
+    color:orangered;
+    font-size: 50px;
+}
